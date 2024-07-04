@@ -1,2 +1,3 @@
-data\200k.txt
-myvenv
+myvenv/
+
+data/
